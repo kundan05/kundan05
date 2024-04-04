@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm KundanGowda N</h1>
 <h3 align="center">Aspiring Software engineer in search for opportunity to start my career</h3>
 
+![Screenshot (887)](https://github.com/kundan05/kundan05/assets/54130282/f3fc958a-44d0-447f-b7bd-221957573e11)
 
-- 👨‍💻 All of my projects are available at [https://kundan-myportfolio.netlify.app/](https://kundan-myportfolio.netlify.app/)
+
+- 👨‍💻 My Portfolio at [https://kundan-myportfolio.netlify.app/](https://kundan-myportfolio.netlify.app/)
 
 - 📫 How to reach me **kundangowda.n@gmail.com**
 
-- ⚡ Fun fact **My friends call me technical guruji**
+- ⚡ Fun fact **My friends call me technical guruji (iykyk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
