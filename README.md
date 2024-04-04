@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm KundanGowda N</h1>
 <h3 align="center">Aspiring Software engineer in search for opportunity to start my career</h3>
 
+![image](https://github.com/kundan05/kundan05/assets/54130282/030a8fd1-20dc-4801-856c-431a2da935d5)
+
+
 - 👨‍💻 All of my projects are available at [https://kundan-myportfolio.netlify.app/](https://kundan-myportfolio.netlify.app/)
 
 - 📫 How to reach me **kundangowda.n@gmail.com**
