@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KundanGowda N</h1>
-<h3 align="center">Upcoming SDE Apprentice at Fidelity Investments</h3>
+<h3 align="center">Upcoming SDE Apprientice</h3>
 
 ![Screenshot (887)](https://github.com/kundan05/kundan05/assets/54130282/f3fc958a-44d0-447f-b7bd-221957573e11)
 
