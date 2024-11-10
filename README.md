@@ -4,11 +4,10 @@
 ![Screenshot (887)](https://github.com/kundan05/kundan05/assets/54130282/f3fc958a-44d0-447f-b7bd-221957573e11)
 
 
-- 👨‍💻 My Portfolio at [https://kundan-myportfolio.netlify.app/](https://kundan-myportfolio.netlify.app/)
+- 👨‍💻 My Portfolio at https://kundan-threejs-portfolio.netlify.app/
 
 - 📫 How to reach me **kundangowda.n@gmail.com**
 
-- ⚡ Fun fact **My friends call me technical guruji (iykyk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
