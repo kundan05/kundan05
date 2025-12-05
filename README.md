@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KundanGowda N</h1>
 <h3 align="center">Software Developer</h3>
 
-- 👨‍💻 My Portfolio at https://kundan-threejs-portfolio.netlify.app/
+- 👨‍💻 My Portfolio at https://kundanxp.netlify.app/
 
 - 📫 How to reach me **kundangowda.n@gmail.com**
 
