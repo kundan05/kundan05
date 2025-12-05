@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm KundanGowda N</h1>
 <h3 align="center">Software Developer</h3>
-<img width="2048" height="2048" alt="Gemini_Generated_Image_ng8df6ng8df6ng8d" src="https://github.com/user-attachments/assets/a9316d63-523c-4b40-a71e-ac2d8786dbcc" />
-
 
 - 👨‍💻 My Portfolio at https://kundan-threejs-portfolio.netlify.app/
 
